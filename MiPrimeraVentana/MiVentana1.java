@@ -18,7 +18,7 @@ public MiVentana1() {
 		
 		
 		this.setTitle("Ventana de prueba - Ramiro Sosa"); 
-		this.setSize(500, 400); 
+		this.setSize(500, 300); 
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
 		this.setLocationRelativeTo(null); 
 		this.setResizable(false);
